@@ -22,3 +22,5 @@ Yes i would consder it a work of technical writing communication. why? Because i
 6. Then take the flat 2x2 circular piece and put it on the underside of the large gray circles
 
 7. Lastly connect the gray large circles from the underside to the blue 2x2, by using the black rod.  
+
+![imagelego2](https://github.com/K1ller343/e235/blob/master/IMG_2082.jpeg)
