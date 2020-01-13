@@ -15,7 +15,7 @@ Yes i would consder it a work of technical writing communication. why? Because i
  
 4. Now take the 2x2 blue circle and put the studded end into the top of one of the gray half circles.
 
-![imagelego](https://github.com/K1ller343/e235/commit/807a9e8ee19ab08e132900d0951852d21b86d72c)
+![imagelego](https://github.com/K1ller343/e235/blob/master/IMG_2083.jpeg)
 
 5. Next take the 2 large gray circular pieces and stack them on top of each other. 
  
