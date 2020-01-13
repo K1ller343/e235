@@ -14,7 +14,7 @@ Yes i would consder it a work of technical writing communication. why? Because i
 3. After steps 1 and 2, take both half circles and pop them into the gray circle holding piece. Then place the newly constructed peace and place it on one of the ends of the piece constructed in steps 1 and 2. 
  
 4. Now take the 2x2 blue circle and put the studded end into the top of one of the gray half circles. 
-
+![image lego](https://github.com/K1ller343/e235/commit/807a9e8ee19ab08e132900d0951852d21b86d72c)
 
 5. Next take the 2 large gray circular pieces and stack them on top of each other. 
  
