@@ -9,7 +9,11 @@ Yes i would consder it a work of technical writing communication. why? Because i
 
 1. Start by connecting 2 wheels to the black 2x2 pieces.
 
+Insert Image of Step
+
 2. Then connect the wheels pieces to the far underside ends of the 2x12 gray strip. 
+
+Insert Image of Step...etc.
 
 3. After steps 1 and 2, take both half circles and pop them into the gray circle holding piece. Then place the newly constructed peace and place it on one of the ends of the piece constructed in steps 1 and 2. 
  
